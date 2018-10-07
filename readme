@@ -1,1 +1,1 @@
-JUST install all modules like express and socket before running this application..
+Firstly install all modules like express and socket before running this application and use socket.io library in front end as well as back end too.
